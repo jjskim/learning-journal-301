@@ -1,0 +1,3 @@
+# Learning Journal Code 301 - Day 3
+
+Today we learned about events and handling events through jQuery. Honestly, I feel like my grasp of jQuery is weak at the moment and is something that I definitely need to improve on in the coming days. I feel like the lab today wasn't really a momentous challenge or something that is logically very hard, but just having to use jQuery selectors to grab and modify the specific HTML elements we wanted made the lab take a lot longer than I anticipated, simply due to our inexperience with jQuery, especially mine. I will make a conscious effort to become more familiar with jQuery.
