@@ -1,0 +1,3 @@
+# Learning Journal Code 301 - Day 8
+
+Yesterday we learned about Node and today we touched briefly on SQL databases and queries. I think these topics are really interesting, especially Node and npm which lets us include packages in our projects that will give us greater functionality. I made a mistake in yesterday's lab where I ran the npm commands in the wrong directory. Just to review for myself I should: change directory to the directory where my server.js or index.js is located, run an npm init, run npm i --save <dependency>. If I am forking or cloning an already made project with a package.json file already present, I should run npm i in the directory where the package.json file is located.
