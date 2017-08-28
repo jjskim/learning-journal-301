@@ -1,0 +1,3 @@
+# Learning Journal Code 301 - Day 10
+
+On Friday we learned about functional programming and began using the map, filter, and reduce functions of arrays in Javascript. My first impression is how clean it looks and how it is able to reduce the amount of lines of code needed to solve a problem. I learned a little bit of Java in college so I am definitely more familiar and comfortable with object oriented programming, but the fact that javscript allows you to store functions into variables and pass them as arguments into other functions seems very powerful. I'm eager to learn more and practice using functional programming in the near future.
